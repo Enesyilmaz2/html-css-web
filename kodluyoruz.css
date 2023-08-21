@@ -1,0 +1,29 @@
+.bolum3 {
+    display: flex;
+    justify-content: space-between;
+    padding:10px;
+    min-height: 200px;
+    background-color: #E7E7E7;
+    margin-bottom: 40px;
+    height: 20px;
+}
+.bolum3 .kutu{
+    width: 200px;
+    height: 200px;
+    line-height: 200px;
+    font-size:5rem;
+    text-align: center;
+    background-color: #D33257;
+    color:#fff;
+
+}
+
+nav ul{
+    list-style: none;
+    margin:50px;
+    padding:10px;
+    font-size: 30px;
+    display: flex;
+    justify-content: space-between;
+    font-family: fantasy;
+}
